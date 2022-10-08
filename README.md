@@ -7,7 +7,7 @@ I am <strong>NOT</strong> responsible for hacking into your revivals.<br>
 # basicvival
 This is a basic code of a ROBLOX Revival, may have vulnerabilities, updated sometimes.<br>
 - [ ] Frontend
-    - [ ] All
+    - [X] Bootstrap
 - [ ] Backend
     - [ ] All
 
