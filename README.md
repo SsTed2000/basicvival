@@ -11,4 +11,4 @@ This is a basic code of a ROBLOX Revival, may have vulnerabilities, updated some
     - [ ] All
 
 <br>
-<i>Thank you for using basicvival.</i>
+<i>Thank you for your time and looking at basicvival.</i>
