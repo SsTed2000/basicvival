@@ -1,6 +1,6 @@
 # /!\ DISCLAIMER /!\
 Yes, thats cool that someone makes a ROBLOX Revival code public for everyone!<br>
-<strong>BUT</strong>,you will need to add joinscripts and other things yourself.<br>
+<strong>BUT</strong>,you will need to add joinscripts, patching and other things yourself.<br>
 I am <strong>NOT</strong> responsible for hacking into your revivals.<br>
 <strong>You</strong> chose basicvival.<br>
 
